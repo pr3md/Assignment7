@@ -14,4 +14,4 @@
 
 ###Response when $http call is made to /docs/all using GET method
 ![alt-text][logo]
-[logo]:  "Home Page"
+[logo]: http://i.imgur.com/8sQTloT.png?1  "Home Page"
