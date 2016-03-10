@@ -3,7 +3,7 @@
 ### Report: Documentation/Report_Assignment7.pdf
 ---
 
-| Method | Service URL           | Payload              | Description                                                |
+| Method | Service Endpoint      | Payload              | Description                                                |
 |--------|-----------------------|----------------------|------------------------------------------------------------|
 | GET    | /docs/all             | -                    | Retrieves all the documents in the collection.             |
 | POST   | /register/post        | zip, city, state     | Creates a new document with the received payload.          |
