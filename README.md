@@ -19,7 +19,7 @@
 ##MLab Screenshots
 ###Update
 ![alt-text][logo]
-[logo]: http://i.imgur.com/CvUrwqE.png "Update"
+[logo]:http://i.imgur.com/GGMzNXo.png "Update"
 
 ##Before Deleting - 18 Documents
 ![alt-text][logo]
@@ -27,5 +27,5 @@
 
 ##After Deleting - 17 Documents
 ![alt-text][logo]
-[logo]: "After Deleting"
+[logo]: http://i.imgur.com/C3jWZ53.png "After Deleting"
 
