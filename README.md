@@ -15,3 +15,17 @@
 ###Response when $http call is made to /docs/all using GET method
 ![alt-text][logo]
 [logo]: http://i.imgur.com/8sQTloT.png?1  "Home Page"
+
+##MLab Screenshots
+###Update
+![alt-text][logo]
+[logo]: http://i.imgur.com/CvUrwqE.png "Update"
+
+##Before Deleting - 18 Documents
+![alt-text][logo]
+[logo]: http://i.imgur.com/wQHT2uv.png "Before Deleting"
+
+##After Deleting - 17 Documents
+![alt-text][logo]
+[logo]: "After Deleting"
+
